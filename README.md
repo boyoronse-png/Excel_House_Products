@@ -20,5 +20,5 @@ I used a product dataset to answer lookup-based business questions, including pr
 - XLOOKUP
 - Structured data tables
 
-##Workbook Preview
+##Workbook Preview (Click Image)
 <img width="1348" height="528" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/be8c234c-4d69-49c7-9080-d6f39b289533" />
