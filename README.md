@@ -21,4 +21,5 @@ I used a product dataset to answer lookup-based business questions, including pr
 - Structured data tables
 
 ##Workbook Preview (Click Image)
-<img width="1348" height="528" alt="Screenshot (382)" src="https://github.com/user-attachments/assets/be8c234c-4d69-49c7-9080-d6f39b289533" />
+<img width="1268" height="515" alt="Screenshot (384)" src="https://github.com/user-attachments/assets/7313c6d0-82e5-46d1-a52d-ab4b7cb70e5d" />
+
